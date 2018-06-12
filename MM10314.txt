@@ -1,0 +1,280 @@
+path: /Users/craig/dev/go/src/github.com/mindscratch/doctext/MM10314.pdf
+MLN Matters MM10314
+
+Related CR 10314
+
+Comprehensive ESRD Care (CEC) Model Telehealth Implementation
+MLN Matters Number: MM10314
+
+Related Change Request (CR) Number: 10314
+
+Related CR Release Date: April 27,.2018
+
+Effective Date: October 1, 2018
+
+Related CR Transmittal Number: R196DEMO
+
+Implementation Date: October 1, 2018
+
+PROVIDER TYPES AFFECTED
+This MLN Matters Article is intended for physicians, providers, and suppliers billing Medicare
+Administrative Contractors (MACs) and participating in the Comprehensive ESRD Care (CEC)
+Model for telehealth services provided to Medicare End-Stage Renal Disease (ESRD)
+beneficiaries associated with the CEC Model.
+
+PROVIDER ACTION NEEDED
+Change Request (CR) 10314 details the CEC Model telehealth program and how it will be
+implemented. Make sure your billing staffs are aware of this initiative.
+
+BACKGROUND
+Section 1115A) of the Social Security Act (the Act) (added by Section 3021 of the Affordable
+Care Act (ACA) (42 USC 1315a) authorizes the Center for Medicare and Medicaid Innovation
+(CMMI) to test innovate health care payment and service-delivery models that have the potential
+to lower Medicare, Medicaid, and the Child Health Insurance Program (CHIP) spending while
+maintaining or improving the quality of beneficiaries’ care.
+The CEC Model is designed to identify, test, and evaluate new ways to improve care for
+Medicare beneficiaries with ESRD. Through the CEC Model, the Centers for Medicare &
+Medicaid Services (CMS) will partner with health care providers and suppliers to test the
+effectiveness of a new payment and service delivery model in providing beneficiaries with
+person-centered, high-quality care. The Model builds on Accountable Care Organization (ACO)
+experience from the Pioneer ACO Model, Next Generation ACO Model, and the Medicare
+Shared Savings Program to test Accountable Care Organizations for ESRD beneficiaries.
+More than 600,000 Americans have ESRD and require life-sustaining dialysis treatments
+several times per week. Many beneficiaries with ESRD suffer from poorer health outcomes,
+
+Page 1 of 6
+
+MLN Matters MM10314
+
+Related CR 10314
+
+often the result of underlying disease complications and multiple co-morbidities. These can lead
+to high rates of hospital admission and readmissions, as well as a mortality rate that is higher
+than that of the general Medicare population.
+According to United States Renal Data System, in 2014, ESRD beneficiaries comprised less
+than 1 percent of the Medicare population, but accounted for an estimated 7.2 percent of total
+Medicare Fee-For-Service (FFS) spending, totaling more than $32.8 billion.
+Because of their complex health needs, beneficiaries often require visits to multiple providers
+and follow multiple care plans, all of which can be challenging for beneficiaries if care is not
+coordinated. The CEC Model seeks to create incentives to enhance care coordination and to
+create a person-centered, coordinated care experience, and to ultimately improve health
+outcomes for this population.
+In the CEC Model, dialysis clinics, nephrologists and other providers collaborate to create an
+ESRD Seamless Care Organization (ESCO) to coordinate care for matched beneficiaries.
+ESCOs are accountable for clinical quality outcomes and financial outcomes measured by
+Medicare Part A and B spending, including all spending on dialysis services for their aligned
+ESRD beneficiaries. This model encourages dialysis providers to think beyond their traditional
+roles in care delivery and supports them as they provide patient-centered care that will address
+beneficiaries’ health needs, both in and outside of the dialysis clinic.
+The CEC Model includes separate financial arrangements for larger and smaller dialysis
+organizations. Large Dialysis Organizations (LDOs), defined as having 200 or more dialysis
+facilities, will be eligible to receive shared savings payments. These LDOs will also be liable for
+shared losses and will have higher overall levels of risk compared with their smaller
+counterparts.
+Non-Large Dialysis Organizations (Non-LDOs) include chains with fewer than 200 dialysis
+facilities, independent dialysis facilities, and hospital-based dialysis facilities. Non-LDOs will
+have the option of participating in a one-sided track where they will be able to receive shared
+savings payments, but will not be liable for payment of shared losses, or participating in a track
+with higher risk and the potential for shared losses. The one-sided track is offered in recognition
+of the Non-LDOs more limited resources.
+The CEC Model began on October 1, 2015, and will run until December 31, 2020. The CEC
+Model conducted a solicitation in 2016 to add more ESCOs for Performance Year 2 of the
+model, beginning on January 1, 2017. The CEC Model has no current plans for another round of
+solicitations.
+The CEC Model LDO payment track and Non-LDO two-sided payment track are considered
+Advance Payment Models (APMs) regarding the Quality Payment Program.
+The CEC Model will implement design elements with implications for the FFS system for its third
+performance year that includes benefit enhancements to give ACOs the tools to direct care and
+engage beneficiaries in their own care. The model also offers increased monitoring to account
+for different financial incentives and the provision of enhanced benefits. The model’s quality
+
+Page 2 of 6
+
+MLN Matters MM10314
+
+Related CR 10314
+
+requirements are similar to Shared Savings Program (SSP) and Pioneer, modified as needed to
+take into account unique aspects of dialysis care, in keeping with the agencies initiatives to unify
+and streamline quality measurement and requirements.
+Telehealth Waiver
+In order to emphasize high-value services and support the ability of ESCOs to manage the care
+of beneficiaries, CMS plans to design policies and use the authority under Section 1115A of the
+Social Security Act (Section 3021 of the Affordable Care Act) to conditionally waive certain
+Medicare payment requirements as part of the CEC Model.
+CMS will make available to qualified ESCOs a waiver of the originating site requirement for
+services provided via telehealth. This benefit enhancement will allow beneficiaries to receive
+qualified telehealth services in non-rural locations and locations that are not specified by statute,
+such as homes and dialysis facilities. The waiver will apply only to eligible aligned beneficiaries
+receiving services from ESCO providers.
+An aligned beneficiary will be eligible to receive telehealth services through this waiver if the
+services are otherwise qualified with respect to:
+1) The service provided, as designated by Current Procedural Terminology (CPT) or
+Healthcare Common Procedure Coding System (HCPCS) codes, and
+2) The remote site.
+MACs will apply claims processing edit logic, audit, medical review, Medicare Secondary Payor,
+and fraud and abuse activities, appeals and overpayment processes for CEC claims in the
+same manner as normal FFS claims.
+Notwithstanding these waivers, all telehealth services must be furnished in accordance with all
+other Medicare coverage and payment criteria, and no additional reimbursement will be made to
+cover set-up costs, technology purchases, training and education, or other related costs. In
+particular, the services allowed through telehealth are limited to those described under Section
+1834(m)(4)(F) of the Act, and subsequent additional services specified through regulation with
+the exception that claims will not be allowed for the following telehealth services rendered to
+aligned beneficiaries located at their residence:
+•
+•
+•
+•
+•
+•
+
+Page 3 of 6
+
+Follow-up inpatient telehealth consultations furnished to beneficiaries in hospitals or
+Skilled Nursing Facilities (SNFs) - HCPCS codes G0406-G0408.
+Subsequent hospital care services, with the limitation of 1 telehealth visit every 3 days CPT codes 99231-99233.
+Subsequent nursing facility care services, with the limitation of 1 telehealth visit every 30
+days - CPT codes 99307-99310.
+Telehealth consultations, emergency department or initial inpatient - HCPCS codes
+G0425-G0427.
+Telehealth Consultation, Critical Care, initial - HCPCS code G0508.
+Telehealth Consultation, Critical Care, subsequent - HCPCS code G0509.
+
+MLN Matters MM10314
+
+•
+
+Related CR 10314
+
+Prolonged service in the inpatient or observation setting requiring unit/floor time beyond
+the usual service - CPT codes 99356-99357.
+
+MACs will be ready to process Part B CEC claims for dates of service on or after October 1,
+2018. MACs will process CEC telehealth claims (Place of Service (POS) 02) when providers are
+ESCO providers and beneficiaries are aligned to the same ESCO for the Date of Service (DOS)
+on the claims and contains the demo code 85 and one of the following CPT or HCPCS codes:
+90785, 90791, 90792, 90832, 90833, 90834, 90836, 90837, 90838, 90839, 90840, 90845,
+90846, 90847, 90951, 90952, 90954, 90955, 90957, 90958, 90960, 90961, 90963, 90964,
+90965, 90966, 90967, 90968, 90969, 90970, 96116, 96150, 96151, 96152, 96153, 96154,
+96160, 96161, 97802, 97803, 97804, 99201, 99202, 99203, 99204, 99205, 99211, 99212,
+99213, 99214, 99215, 99354, 99355, 99406, 99407, 99495, 99496, 99497, 99498, G0108,
+G0109, G0270, G0396, G0397, G0420, G0421, G0438, G0439, G0442, G0443, G0444,
+G0445, G0446, G0447, G0459, G0506, G9481, G9482, G9483, G9484, G9485, G9486,
+G9487, G9488, G9489
+For Part A CEC claims when providers are ESCO providers and beneficiaries are aligned to the same
+ESCO for the Date of Service (DOS) on the claims submitted on Type of Bill (TOB) 12X, 13X, 22X,
+23X, 71X, 72X, 76X, 77X, or 85X and contains the demo code 85 and one of the following CPT or
+HCPCS codes:
+90785, 90791, 90792, 90832, 90833, 90834, 90836, 90837, 90838, 90839, 90840, 90845,
+90846, 90847, 90951, 90952, 90954, 90955, 90957, 90958, 90960, 90961, 90963, 90964,
+90965, 90966, 90967, 90968, 90969, 90970, 96116, 96150, 96151, 96152, 96153, 96154,
+96160, 96161, 97802, 97803, 97804, 99201, 99202, 99203, 99204, 99205, 99211, 99212,
+99213, 99214, 99215, 99354, 99355, 99406, 99407, 99495, 99496, 99497, 99498, G0108,
+G0109, G0270, G0396, G0397, G0420, G0421, G0438, G0439, G0442, G0443, G0444,
+G0445, G0446, G0447, G0459, G0506, G9481, G9482, G9483, G9484, G9485, G9486,
+G9487, G9488, G9489
+MACs will not process as CEC telehealth claims that contain the following codes. Claims that
+contain these codes these codes can be processed following existing claims processing logic:
+•
+•
+•
+•
+•
+•
+•
+
+HCPCS codes G0406 – G0408.
+CPT codes 99231 – 99233.
+CPT codes 99307 – 99310.
+HCPCS codes G0425-G0427
+HCPCS code G0508
+HCPCS code G0509
+CPT codes 99356-99357
+
+MACs will treat CEC payments the same as Medicare patients for cost reporting purposes.
+
+Page 4 of 6
+
+MLN Matters MM10314
+
+Related CR 10314
+
+Providers submitting electronic 837 claims should enter DEMO 85 in the REF segment 2300
+Loop Demonstration Project Identifiers and providers will include Qualifier P4. Providers
+submitting a paper claim should enter demo 85 in the treatment authorization field.
+Providers should be aware that MACs will return claims if you append demo code 85, and:
+•
+•
+•
+•
+•
+•
+•
+
+You are not on the CEC participant provider list with a telehealth record type; or
+DOS “from date” is prior to your telehealth effective date, or
+DOS “from date” is after your telehealth termination date, or
+The DOS “from date” is prior to the beneficiary’s effective date; or
+The DOS “from date” is after the beneficiary’s termination date, or
+The DOS “from date” is more than 90 days after the beneficiary’s termination date; or
+The beneficiary was not aligned to the same ESCO with which you are participating, as
+identified by ESCO ID; or
+• The claim is for Part A and the TOB is other than 12X, 13X, 22X, 23X, 71X, 72X, 76X,
+77X, and 85X,
+• Other, non-telehealth services are billed on the same claim. In these cases, none of the
+services on the claim are processed.
+In returning Part B claims, your MAC will use the following messaging:
+•
+•
+•
+
+Claims Adjustment Reason Code (CARC) 16: (Claim/service lacks information or has
+submission/billing error(s) which is needed for adjudication) and
+Remittance Advice Remark Code (RARC) N763 (The demonstration code is not
+appropriate for this claim; resubmit without a demonstration code.)
+Group Code: CO (Contractual Obligation)
+
+For Part A claims, your MAC will just return the claim to the provider (RTP).
+
+ADDITIONAL INFORMATION
+The official instruction, CR10314, issued to your MAC regarding this change is available at
+https://www.cms.gov/Regulations-andGuidance/Guidance/Transmittals/2018Downloads/R196DEMO.pdf.
+If you have any questions, please contact your MAC at their toll-free number. That number is
+available at https://www.cms.gov/Research-Statistics-Data-and-Systems/MonitoringPrograms/Medicare-FFS-Compliance-Programs/Review-Contractor-Directory-Interactive-Map/.
+
+Page 5 of 6
+
+MLN Matters MM10314
+
+Related CR 10314
+
+DOCUMENT HISTORY
+Date of Change
+April 27, 2018
+
+Description
+Initial article released.
+
+Disclaimer: This article was prepared as a service to the public and is not intended to grant rights or impose obligations. This article
+may contain references or links to statutes, regulations, or other policy materials. The information provided is only intended to be a
+general summary. It is not intended to take the place of either the written law or regulations. We encourage readers to review the
+specific statutes, regulations and other interpretive materials for a full and accurate statement of their contents. CPT only Copyright
+2017 American Medical Association. All rights reserved.
+Copyright © 2018, the American Hospital Association, Chicago, Illinois. Reproduced with permission. No portion of the AHA
+copyrighted materials contained within this publication may be copied without the express written consent of the AHA. AHA
+copyrighted materials including the UB-04 codes and descriptions may not be removed, copied, or utilized within any software,
+product, service, solution or derivative work without the written consent of the AHA. If an entity wishes to utilize any AHA materials,
+please contact the AHA at 312-893-6816. Making copies or utilizing the content of the UB-04 Manual, including the codes and/or
+descriptions, for internal purposes, resale and/or to be used in any product or publication; creating any modified or derivative work of
+the UB-04 Manual and/or codes and descriptions; and/or making any commercial use of UB-04 Manual or any portion thereof,
+including the codes and/or descriptions, is only authorized with an express license from the American Hospital Association. To
+license the electronic data file of UB-04 Data Specifications, contact Tim Carlson at (312) 893-6816 or Laryssa Marshall at (312)
+893-6814. You may also contact us at
+ub04@healthforum.com
+The American Hospital Association (the “AHA”) has not reviewed, and is not responsible for, the completeness or accuracy of any
+information contained in this material, nor was the AHA or any of its affiliates, involved in the preparation of this material, or the
+analysis of information provided in the material. The views and/or positions presented in the material do not necessarily represent
+the views of the AHA. CMS and its products and services are not endorsed by the AHA or any of its affiliates.
+
+Page 6 of 6
